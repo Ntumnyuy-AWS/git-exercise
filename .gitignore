@@ -1,0 +1,5 @@
+i#Ignore the following
+.idea 
+.DS_Store
+out 
+build

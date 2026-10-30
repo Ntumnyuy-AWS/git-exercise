@@ -1,0 +1,5 @@
+#ignore these these files and directories.
+.idea/
+.DS_Store
+out/
+build/
